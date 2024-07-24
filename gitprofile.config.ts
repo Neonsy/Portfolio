@@ -49,7 +49,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'timo-ferreri-a33a01269',
     twitter: '',
     mastodon: '',
     researchGate: '',
