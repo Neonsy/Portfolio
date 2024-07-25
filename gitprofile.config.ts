@@ -38,7 +38,7 @@ const CONFIG = {
             'This is a collection of my JavaScript related knowledge. It was finished, but I\'ve decided to rework it into a proper documentation. The rework features TypeScript and NodeJS as well.',
           imageUrl:
             'https://repository-images.githubusercontent.com/597145804/b2e117aa-d77d-42de-bc76-5f08d7e1986c',
-          link: 'https://github.com/Neonsy/JavaScript-Note-Collection',
+          link: 'https://neonsy.github.io/JavaScript-Note-Collection/',
         },
       ],
     },
