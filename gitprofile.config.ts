@@ -40,6 +40,14 @@ const CONFIG = {
             'https://repository-images.githubusercontent.com/597145804/b2e117aa-d77d-42de-bc76-5f08d7e1986c',
           link: 'https://neonsy.github.io/JavaScript-Note-Collection/',
         },
+        {
+          title: 'React First Steps',
+          description:
+            'I\'ve dabbled in React for a while, but I haven\'t really gotten into it, yet. This repository is there to capture my first steps in React.',
+          imageUrl:
+            'https://repository-images.githubusercontent.com/835932396/988acb79-f4fb-456c-93db-28dd6c775470',
+          link: 'https://github.com/Neonsy/React-First-Steps',
+        },
       ],
     },
   },
