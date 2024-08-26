@@ -48,6 +48,20 @@ const CONFIG = {
             'https://repository-images.githubusercontent.com/835932396/988acb79-f4fb-456c-93db-28dd6c775470',
           link: 'https://github.com/Neonsy/React-First-Steps',
         },
+        {
+          title: 'NextJS Server Steps',
+          description:
+            'After I\'ve gotten into React, it was time to learn how to use NextJS.',
+          imageUrl:
+            'https://repository-images.githubusercontent.com/839349125/774ac277-4fae-4233-a089-72b36199279b',
+          link: 'https://github.com/Neonsy/NextJS-Server-Steps',
+        },
+        {
+          title: 'NextJS Portfolio',
+          description:
+            'Now that I know how to use NextJS, I\'m building my own personal portfolio website.',
+          link: 'https://github.com/Neonsy/NextJS-Portfolio',
+        },
       ],
     },
   },
