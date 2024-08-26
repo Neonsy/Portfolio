@@ -36,24 +36,18 @@ const CONFIG = {
           title: 'JavaScript Note Collection',
           description:
             'This is a collection of my JavaScript related knowledge. It was finished, but I\'ve decided to rework it into a proper documentation. The rework features TypeScript and NodeJS as well.',
-          imageUrl:
-            'https://repository-images.githubusercontent.com/597145804/b2e117aa-d77d-42de-bc76-5f08d7e1986c',
           link: 'https://neonsy.github.io/JavaScript-Note-Collection/',
         },
         {
           title: 'React First Steps',
           description:
             'I\'ve dabbled in React for a while, but I haven\'t really gotten into it, yet. This repository is there to capture my first steps in React.',
-          imageUrl:
-            'https://repository-images.githubusercontent.com/835932396/988acb79-f4fb-456c-93db-28dd6c775470',
           link: 'https://github.com/Neonsy/React-First-Steps',
         },
         {
           title: 'NextJS Server Steps',
           description:
             'After I\'ve gotten into React, it was time to learn how to use NextJS.',
-          imageUrl:
-            'https://repository-images.githubusercontent.com/839349125/774ac277-4fae-4233-a089-72b36199279b',
           link: 'https://github.com/Neonsy/NextJS-Server-Steps',
         },
         {
