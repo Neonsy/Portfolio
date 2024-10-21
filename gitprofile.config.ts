@@ -32,30 +32,7 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'JavaScript Note Collection',
-          description:
-            'This is a collection of my JavaScript related knowledge. It was finished, but I\'ve decided to rework it into a proper documentation. The rework features TypeScript and NodeJS as well.',
-          link: 'https://neonsy.github.io/JavaScript-Note-Collection/',
-        },
-        {
-          title: 'React First Steps',
-          description:
-            'I\'ve dabbled in React for a while, but I haven\'t really gotten into it, yet. This repository is there to capture my first steps in React.',
-          link: 'https://github.com/Neonsy/React-First-Steps',
-        },
-        {
-          title: 'NextJS Server Steps',
-          description:
-            'After I\'ve gotten into React, it was time to learn how to use NextJS.',
-          link: 'https://github.com/Neonsy/NextJS-Server-Steps',
-        },
-        {
-          title: 'NextJS Portfolio',
-          description:
-            'Now that I know how to use NextJS, I\'m building my own personal portfolio website.',
-          link: 'https://github.com/Neonsy/NextJS-Portfolio',
-        },
+        
       ],
     },
   },
